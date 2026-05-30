@@ -106,7 +106,7 @@ img {
 /* ---------- shell ---------- */
 
 .app-shell {
-  width: min(1320px, calc(100% - 28px));
+  width: min(1000px, calc(100% - 28px));
   margin: 0 auto;
   padding-bottom: 120px;
 }
@@ -218,7 +218,7 @@ img {
 /* ---------- section base ---------- */
 
 .section {
-  padding: 96px 0 32px;
+  padding: 72px 0 24px;
   position: relative;
 }
 
@@ -244,10 +244,10 @@ img {
   margin: 0;
   font-family: var(--font-display);
   font-weight: 800;
-  font-size: clamp(2.6rem, 6vw, 5.4rem);
-  line-height: 0.94;
-  letter-spacing: -0.04em;
-  max-width: 18ch;
+  font-size: clamp(2.1rem, 4.4vw, 3.6rem);
+  line-height: 0.98;
+  letter-spacing: -0.035em;
+  max-width: 22ch;
 }
 
 .section-heading h2 em {
@@ -369,12 +369,12 @@ img {
 
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.55fr) minmax(320px, 0.9fr);
-  gap: 56px;
+  grid-template-columns: minmax(0, 1.4fr) minmax(280px, 0.85fr);
+  gap: 40px;
   align-items: center;
-  padding-top: 84px;
-  padding-bottom: 56px;
-  min-height: calc(100vh - 140px);
+  padding-top: 56px;
+  padding-bottom: 40px;
+  min-height: auto;
   position: relative;
 }
 
@@ -412,10 +412,10 @@ img {
   margin: 22px 0 0;
   font-family: var(--font-display);
   font-weight: 800;
-  font-size: clamp(3rem, 6.8vw, 6.2rem);
-  line-height: 0.94;
-  letter-spacing: -0.045em;
-  max-width: 20ch;
+  font-size: clamp(2.6rem, 5.4vw, 4.6rem);
+  line-height: 0.96;
+  letter-spacing: -0.04em;
+  max-width: 22ch;
 }
 
 .hero h1 .serif {
@@ -494,7 +494,7 @@ img {
 
 .hero-board {
   position: relative;
-  min-height: 620px;
+  min-height: 520px;
   align-self: stretch;
 }
 
@@ -1476,7 +1476,7 @@ img {
 
 @media (max-width: 860px) {
   .app-shell {
-    width: min(100% - 22px, 1320px);
+    width: min(100% - 22px, 1000px);
   }
 
   .topnav {
