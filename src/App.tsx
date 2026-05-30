@@ -89,7 +89,7 @@ function App() {
         </nav>
         <a className="topbar-cta" href={`mailto:${profile.email}`}>
           <span className="topbar-cta-dot" aria-hidden="true" />
-          Available · 2026
+          <span className="cta-label-long">Available · </span>2026
         </a>
       </header>
 
@@ -107,10 +107,9 @@ function App() {
             </motion.div>
 
             <motion.h1 variants={reveal}>
-              I build the layer between{' '}
-              <span className="serif">complex</span>{' '}
-              <span className="accent-block">AI systems</span>{' '}
-              <br /> and the people using them.
+              <span className="line">I build the layer between</span>{' '}
+              <span className="line"><span className="serif">complex</span>{' '}<span className="accent-block">AI systems</span></span>{' '}
+              <span className="line">and the people using them.</span>
             </motion.h1>
 
             <motion.p className="hero-intro" variants={reveal}>

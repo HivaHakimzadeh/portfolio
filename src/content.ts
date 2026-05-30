@@ -45,61 +45,6 @@ export const identityCards = [
 
 export const featuredProjects = [
   {
-    title: '4Minds AI',
-    eyebrow: 'Professional work',
-    year: '2025 — Present',
-    role: 'Frontend Engineer / Product Experience',
-    thumb: '/project-4minds.svg',
-    summary:
-      'Frontend and product experience work for an enterprise AI platform and Symi assistant experiences spanning model interaction flows, trustworthy AI UX, admin tooling, and backend-connected workflows.',
-    impact:
-      'Turns heavy AI infrastructure into product experiences that feel trustworthy, understandable, and operationally real.',
-    focus: 'Enterprise AI platform experience',
-    visualWords: ['Symi', 'Enterprise AI', 'Trust', 'Admin UX'],
-    stack: [
-      'React',
-      'TypeScript',
-      'Python',
-      'FastAPI',
-      'REST APIs',
-      'Docker',
-      'Kubernetes',
-      'Jest',
-      'Figma',
-    ],
-    highlights: [
-      'Built interface patterns for AI chat, control-center flows, and admin experiences.',
-      'Worked across frontend polish, API integration, product planning, and prompt behavior tuning.',
-      'Helped translate enterprise AI concepts like governance, auditability, and model control into usable interfaces.',
-    ],
-  },
-  {
-    title: 'Control Center',
-    eyebrow: 'Platform systems',
-    year: '2025',
-    role: 'Frontend Engineer / Systems UX',
-    thumb: '/project-control-center.svg',
-    summary:
-      'A control-center style product surface for model configuration, AI workflow oversight, and admin-grade platform management inside an enterprise AI environment.',
-    impact:
-      'Makes abstract AI operations legible through stateful UI, clear controls, and product patterns that reduce confusion.',
-    focus: 'Control, observability, and AI governance UX',
-    visualWords: ['Control Center', 'Model config', 'Auditability', 'System clarity'],
-    stack: [
-      'React',
-      'TypeScript',
-      'Figma',
-      'REST APIs',
-      'Admin UX',
-      'Design systems',
-    ],
-    highlights: [
-      'Designed and implemented UI patterns for high-context AI operations work.',
-      'Focused on clarity, state visibility, and reducing user confusion in complex workflows.',
-      'Helped shape platform logic into a product surface that felt operationally trustworthy.',
-    ],
-  },
-  {
     title: 'Climo',
     eyebrow: 'Featured case study',
     year: 'AI emergency intelligence',
