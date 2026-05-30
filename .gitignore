@@ -1,0 +1,9 @@
+node_modules
+dist
+*.tsbuildinfo
+.vercel
+.DS_Store
+.refs
+.firecrawl
+vite.config.js
+vite.config.d.ts

@@ -1,0 +1,22 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="36" fill="#10111D"/>
+  <rect x="54" y="54" width="1092" height="792" rx="30" stroke="#353953"/>
+  <rect x="146" y="144" width="908" height="612" rx="30" fill="#171A2B"/>
+  <rect x="196" y="208" width="808" height="94" rx="24" fill="#21253C"/>
+  <rect x="196" y="334" width="242" height="344" rx="24" fill="#1C2033"/>
+  <rect x="478" y="334" width="242" height="344" rx="24" fill="#1C2033"/>
+  <rect x="760" y="334" width="244" height="344" rx="24" fill="#1C2033"/>
+  <path d="M242 256H956" stroke="#F7CDE7" stroke-width="4"/>
+  <path d="M242 396H392" stroke="#93C8FF" stroke-width="4"/>
+  <path d="M242 444H392" stroke="#93C8FF" stroke-width="4"/>
+  <path d="M242 492H352" stroke="#93C8FF" stroke-width="4"/>
+  <path d="M524 396H674" stroke="#93C8FF" stroke-width="4"/>
+  <path d="M524 444H674" stroke="#93C8FF" stroke-width="4"/>
+  <path d="M806 396H956" stroke="#93C8FF" stroke-width="4"/>
+  <path d="M806 444H956" stroke="#93C8FF" stroke-width="4"/>
+  <text x="150" y="116" fill="#F4F6FF" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">WISHCART</text>
+  <text x="198" y="270" fill="#F4F6FF" font-family="Arial, sans-serif" font-size="52" font-weight="700">Data model</text>
+  <text x="198" y="640" fill="#F7CDE7" font-family="Arial, sans-serif" font-size="24" font-weight="700">Schema</text>
+  <text x="520" y="640" fill="#F7CDE7" font-family="Arial, sans-serif" font-size="24" font-weight="700">Records</text>
+  <text x="812" y="640" fill="#F7CDE7" font-family="Arial, sans-serif" font-size="24" font-weight="700">Loaders</text>
+</svg>

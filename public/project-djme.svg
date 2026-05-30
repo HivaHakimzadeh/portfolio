@@ -1,0 +1,17 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="36" fill="#15101E"/>
+  <rect x="52" y="52" width="1096" height="796" rx="30" stroke="#46355A"/>
+  <circle cx="310" cy="420" r="200" fill="#FF8756" fill-opacity="0.24"/>
+  <circle cx="856" cy="420" r="200" fill="#7E6CFF" fill-opacity="0.22"/>
+  <circle cx="584" cy="420" r="176" stroke="#F7CCB0" stroke-width="18"/>
+  <circle cx="584" cy="420" r="106" stroke="#F7CCB0" stroke-width="18"/>
+  <circle cx="584" cy="420" r="34" fill="#F7CCB0"/>
+  <path d="M216 420C290 336 404 282 584 282C764 282 878 336 952 420" stroke="#FFF0E8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M216 420C290 504 404 558 584 558C764 558 878 504 952 420" stroke="#FFF0E8" stroke-width="6" stroke-linecap="round"/>
+  <text x="122" y="116" fill="#FFEFE8" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">DJME</text>
+  <text x="160" y="190" fill="#FFF7F2" font-family="Arial, sans-serif" font-size="66" font-weight="700">Music</text>
+  <text x="160" y="264" fill="#FFB07A" font-family="Arial, sans-serif" font-size="66" font-weight="700">flow engine</text>
+  <text x="160" y="690" fill="#FFF7F2" font-family="Arial, sans-serif" font-size="26" font-weight="700">Taste</text>
+  <text x="510" y="690" fill="#FFF7F2" font-family="Arial, sans-serif" font-size="26" font-weight="700">Transition</text>
+  <text x="854" y="690" fill="#FFF7F2" font-family="Arial, sans-serif" font-size="26" font-weight="700">Energy</text>
+</svg>

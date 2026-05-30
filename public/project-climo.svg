@@ -1,0 +1,20 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="36" fill="#0B1020"/>
+  <rect x="52" y="52" width="1096" height="796" rx="30" stroke="#2A3C56"/>
+  <circle cx="922" cy="200" r="170" fill="#FF6A4D" fill-opacity="0.18"/>
+  <circle cx="922" cy="200" r="86" fill="#FFD2C4" fill-opacity="0.36"/>
+  <path d="M182 726C264 624 450 470 666 472C866 474 980 604 1036 684" stroke="#78C5FF" stroke-width="5"/>
+  <circle cx="444" cy="516" r="16" fill="#FF6A4D"/>
+  <circle cx="702" cy="480" r="16" fill="#FF6A4D"/>
+  <circle cx="892" cy="570" r="16" fill="#FF6A4D"/>
+  <rect x="124" y="124" width="952" height="652" rx="32" fill="#10172B"/>
+  <text x="148" y="108" fill="#EAF5FF" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">CLIMO</text>
+  <text x="170" y="240" fill="#F8FBFF" font-family="Arial, sans-serif" font-size="72" font-weight="700">Emergency</text>
+  <text x="170" y="318" fill="#78C5FF" font-family="Arial, sans-serif" font-size="72" font-weight="700">intelligence</text>
+  <rect x="170" y="380" width="220" height="104" rx="24" fill="#14203B" stroke="#36506E"/>
+  <rect x="418" y="380" width="220" height="104" rx="24" fill="#14203B" stroke="#36506E"/>
+  <rect x="666" y="380" width="220" height="104" rx="24" fill="#14203B" stroke="#36506E"/>
+  <text x="198" y="442" fill="#F8FBFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Detect</text>
+  <text x="466" y="442" fill="#F8FBFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Classify</text>
+  <text x="720" y="442" fill="#F8FBFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Map</text>
+</svg>

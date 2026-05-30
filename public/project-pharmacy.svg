@@ -1,0 +1,20 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="36" fill="#0E101C"/>
+  <rect x="50" y="50" width="1100" height="800" rx="30" stroke="#303A53"/>
+  <circle cx="932" cy="208" r="174" fill="#FFA86F" fill-opacity="0.18"/>
+  <circle cx="932" cy="208" r="92" fill="#FFD6B8" fill-opacity="0.34"/>
+  <rect x="150" y="154" width="900" height="594" rx="34" fill="#15192C"/>
+  <rect x="206" y="234" width="244" height="140" rx="24" fill="#1D2441"/>
+  <rect x="478" y="234" width="244" height="140" rx="24" fill="#1D2441"/>
+  <rect x="750" y="234" width="244" height="140" rx="24" fill="#1D2441"/>
+  <rect x="206" y="424" width="788" height="220" rx="26" fill="#1A2039"/>
+  <rect x="294" y="486" width="166" height="64" rx="18" fill="#FFA86F"/>
+  <rect x="490" y="486" width="166" height="64" rx="18" fill="#93C8FF"/>
+  <rect x="686" y="486" width="166" height="64" rx="18" fill="#FFA86F"/>
+  <text x="152" y="122" fill="#F8FAFF" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">PHARMACY INVENTORY</text>
+  <text x="206" y="328" fill="#F8FAFF" font-family="Arial, sans-serif" font-size="50" font-weight="700">Scan</text>
+  <text x="504" y="328" fill="#F8FAFF" font-family="Arial, sans-serif" font-size="50" font-weight="700">Sync</text>
+  <text x="796" y="328" fill="#F8FAFF" font-family="Arial, sans-serif" font-size="50" font-weight="700">Track</text>
+  <text x="224" y="616" fill="#F8FAFF" font-family="Arial, sans-serif" font-size="66" font-weight="700">Operational</text>
+  <text x="224" y="686" fill="#FFA86F" font-family="Arial, sans-serif" font-size="66" font-weight="700">automation</text>
+</svg>
